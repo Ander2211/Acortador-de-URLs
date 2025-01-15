@@ -5,5 +5,6 @@ El proyecto es personal y utiliza complementos de terceros o versiones de prueba
 Tecnologías utilizadas:
 
 [PHP 8.2.12](https://www.php.net/).
-[Bootstrap 5] (https://getbootstrap.com/).
-[MySQL] (https://www.mysql.com/).
+
+[Bootstrap 5](https://getbootstrap.com/).
+[MySQL](https://www.mysql.com/).
